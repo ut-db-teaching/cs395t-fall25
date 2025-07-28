@@ -24,10 +24,10 @@ permalink: /logistics/
 
 |                           | % of Grade | Due Date / Notes                              |
 |---------------------------|------------|-----------------------------------------------|
-| Mini Write-Ups            | 20%        | Due at 11:59 PM CST, the day before each class|
+| Mini Write-Ups            | 15%        | Due at 11:59 PM CST, the day before each class|
 | Attendance                | 5%         | N/A                                           |
 | Discussion Participation  | 15%        | N/A                                           |
-| Paper Presentation        | 20%        | Sign up by **08/31/2025**                     |
+| Paper Presentation        | 15%        | Sign up by **08/31/2025**                     |
 | **Final Project**         |            | Form the group by **09/05/2025**              |
 | Progress Presentation 1   | 10%        | **10/07/2025**                                |
 | Progress Presentation 2   | 10%        | **11/06/2025**                                |
