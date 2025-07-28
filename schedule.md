@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Course Schedule
+title: Schedule
 permalink: /schedule/
 ---
 
@@ -10,7 +10,7 @@ permalink: /schedule/
 - **Subsequent Classes:** Paper discussions. Each class will focus on two papers.
 - **Project Presentation Classes:** Four classes will be reserved for project progress reports and final presentations.
 
-## Schedule
+## Detailed Schedule
 
 The detailed class schedule, including paper assignments and presentation slots, is available in the following spreadsheet:
 

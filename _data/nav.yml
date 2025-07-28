@@ -8,7 +8,7 @@ items:
   icon_class: fas fa-tasks 
 
 - url: /schedule/
-  name: Schedule
+  name: Schedule 
   icon_class: fas fa-calendar-alt
 
 - url: /logistics/
