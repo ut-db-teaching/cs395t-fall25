@@ -1,16 +1,8 @@
 ---
 layout: page 
-title: Course Structure 
+title: Course Schedule
 permalink: /schedule/
 ---
-
-## Course Structure 
-
-This course consists of two main parts:
-1. **Vector Database Technology**
-2. **Applying Large Language Models (LLMs) for Data Analysis**
-
-Students will read, present, and discuss recent research papers on these topics. In addition, students will form small groups to conduct a research project related to the course themes.
 
 ## Class Format
 
