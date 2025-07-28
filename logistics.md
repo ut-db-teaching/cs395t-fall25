@@ -29,7 +29,7 @@ permalink: /logistics/
 | Discussion Participation  | 15%        | N/A                                           |
 | Paper Presentation        | 20%        | Sign up by **08/31/2025**                     |
 | **Final Project**         |            | Form the group by **09/05/2025**              |
-| Progress Presentation 1   | 10%        | **09/30/2025**                                |
+| Progress Presentation 1   | 10%        | **10/07/2025**                                |
 | Progress Presentation 2   | 10%        | **11/06/2025**                                |
 | Final Presentation        | 15%        | **12/02/2025** or **12/04/2025**              |
 | Final Report              | 15%        | **12/14/2025**                                |
