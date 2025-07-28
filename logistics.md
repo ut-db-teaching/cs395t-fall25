@@ -22,7 +22,7 @@ permalink: /logistics/
 
 ## Grading Policy
 
-| Component                 | % of Grade | Due Date / Notes                              |
+|                           | % of Grade | Due Date / Notes                              |
 |---------------------------|------------|-----------------------------------------------|
 | Mini Write-Ups            | 20%        | Due at 11:59 PM CST, the day before each class|
 | Attendance                | 5%         | N/A                                           |
