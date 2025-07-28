@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-## Course Description
+## Course Structure 
 
 This course consists of two main parts:
 1. **Vector Database Technology**
@@ -14,9 +14,9 @@ Students will read, present, and discuss recent research papers on these topics.
 
 ## Class Format
 
-- **First Two Classes:** Introductory lectures covering the course structure, key background concepts, and an overview of potential project ideas.
+- **First Two Classes:** Introductory lectures covering the course structure, backgrounds, and an overview of potential project ideas.
 - **Subsequent Classes:** Paper discussions. Each class will focus on two papers.
-- **Project Presentation Classes:** Selected classes will be reserved for project progress reports and final presentations.
+- **Project Presentation Classes:** Four classes will be reserved for project progress reports and final presentations.
 
 ## Schedule
 

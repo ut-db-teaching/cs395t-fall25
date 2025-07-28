@@ -13,9 +13,9 @@ permalink: /logistics/
 ## Course Policies
 
 - All assignments are due by **11:59 PM CST** on the deadline date, to be submitted on **Canvas** unless otherwise noted.
+- Students are **not allowed to use LLMs to generate or polish the mini write-ups.**
 - All classes will be **in person**. Online attendance is **not supported**.
-- Attendance is critical in a seminar-style course. Missing **up to three classes** (e.g., due to illness or travel) is acceptable. Please **email the instructor** if you need to miss more.
-- Consistent absence or lack of participation will negatively impact your **class participation grade**.
+- Attendance is critical in a seminar-style course. Missing **up to three classes** (e.g., due to illness or travel) is acceptable. Consistent absence or lack of participation will negatively impact your **class participation grade**.
 - We will use:
   - **EdDiscussion** for announcements and class communication
   - **Canvas** for assignment submissions
@@ -28,16 +28,16 @@ permalink: /logistics/
 | Attendance                | 5%         | N/A                                           |
 | Discussion Participation  | 15%        | N/A                                           |
 | Paper Presentation        | 20%        | Sign up by **08/31/2025**                     |
-| **Final Project**         |            |                                               |
-| – Group Formation         | —          | By **09/05/2025**                             |
-| – Progress Presentation 1 | 10%        | **09/30/2025**                                |
-| – Progress Presentation 2 | 10%        | **11/06/2025**                                |
-| – Final Presentation      | 15%        | **12/02/2025** or **12/04/2025**              |
-| – Final Report            | 15%        | **12/14/2025**                                |
+| **Final Project**         |            | Form the group by **09/05/2025**              |
+| Progress Presentation 1   | 10%        | **09/30/2025**                                |
+| Progress Presentation 2   | 10%        | **11/06/2025**                                |
+| Final Presentation        | 15%        | **12/02/2025** or **12/04/2025**              |
+| Final Report              | 15%        | **12/14/2025**                                |
 
-- Final grades will use **+/− grading**.
 
 ## Letter Grade Cutoffs
+
+- Final grades will use **+/− grading**.
 
 | Grade | Cutoff |
 |-------|--------|

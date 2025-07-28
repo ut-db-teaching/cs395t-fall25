@@ -7,21 +7,21 @@ permalink: /workloads/
 
 **Due:** 11:59 PM CST, the day before each class
 
-In each paper discussion class, we will cover two papers. All students are required to submit a mini write-up for the two papers before class. 
+In each paper discussion class, we will cover **two papers**. All students are required to **submit a mini write-up for the two papers** before class. 
 
 Each write-up should include:
 - A brief summary (a few sentences) for each paper
 - Two strengths of each paper
 - Two weaknesses of each paper
 
-## In-Class Presentation for 1–3 Classes
+## In-Class Presentation
 
-Each class will have one student present *Paper 1* listed in the spreadsheet.
+Each class will have one student present **Paper 1** listed in the schedule spreadsheet.
 
 Presentation guidelines:
 - Approximately 15 minutes
 - Cover the paper’s motivation, problem setting, techniques, and experiments
-- Lead the discussion of *Paper 2* (no formal presentation needed)
+- Lead the discussion of **Paper 2** (no formal presentation needed)
 
 Depending on enrollment, each student will present in **1 to 3 classes**.
 
@@ -36,7 +36,7 @@ Students should:
 
 ## Project Presentation and Final Report
 
-Students will form small groups (maximum of 3 members) to conduct a research project aligned with the seminar topic.
+Students will form small groups (maximum of 3 members) to conduct a research project on the topics of this seminar.
 
 Project deliverables include:
 - **Two in-class project progress reports**:
