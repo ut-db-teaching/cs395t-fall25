@@ -14,7 +14,7 @@ Each write-up should include:
 - Two strengths of each paper
 - Two weaknesses of each paper
 
-## In-Class Presentation
+## Paper Presentation
 
 Each class will have one student present **Paper 1** listed in the schedule spreadsheet.
 
@@ -25,7 +25,7 @@ Presentation guidelines:
 
 Depending on enrollment, each student will present in **1 to 3 classes**.
 
-## In-Class Participation
+## Attendance and Participation
 
 Active participation is expected in every class.
 
