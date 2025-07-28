@@ -14,7 +14,3 @@ items:
 - url: /logistics/
   name: Logistics and Policies 
   icon_class: fas fa-balance-scale 
-
-- url: /materials/
-  name: Materials
-  icon_class: fas fa-book

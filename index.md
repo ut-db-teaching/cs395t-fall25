@@ -2,8 +2,6 @@
 layout: home
 ---
 # Course Introduction
-This course is an undergrad-level database system course. Its focus is introducing the internals of a database system. It does NOT cover how to build applications (like web applications) over database systems. Students are expected to understand the design of each database system component and get experience implementing a few key components in a pedagogical database system.
+This graduate-level seminar course discusses advanced topics on the intersection between database systems and large language models (LLMs). We will mainly discuss 1) the novel database technologies for supporting modern LLMs (i.e., vector databases for retrieve-augmented generation) and 2) the integration of LLMs into databases for analyzing structured and unstructured data, such as PDF documents and text.
 
-This course assumes students have completed the following undergraduate-level courses: data structures, algorithms, and operating systems, or have equivalent knowledge.
-
-Since the course labs are based on Rust, students are expected to learn Rust programming independently. There will be a small project covering Rust basics, but the course will not teach Rust programming. Therefore, while prior knowledge of Rust is not required, familiarity with at least one general-purpose programming language (e.g., C/C++, Java) is necessary to get started quickly with Rust.
+This course assumes students have completed the following undergraduate-level courses: data structures, algorithms, databases, and operating systems, or possess equivalent knowledge. Familiarity with at least one general-purpose programming language is required for conducting the research project.

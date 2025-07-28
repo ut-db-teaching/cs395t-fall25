@@ -1,9 +1,9 @@
 # Site settings
-course_name: CS 347 Data Management
-course_semester: "Fall 2024"
+course_name: CS 395T Database Systems and LLMs 
+course_semester: "Fall 2025"
 
-baseurl: "/cs347-fall24" # the subpath of your site, e.g. /blog/
-url: "http://ut-datasys.github.io/" # the base hostname & protocol for your site
+baseurl: "/cs395t-fall25" # the subpath of your site, e.g. /blog/
+url: "http://ut-db-teaching.github.io/" # the base hostname & protocol for your site
 
 # schoolname: "UTCS"
 # schoolurl: "https://www.cs.utexas.edu/"
