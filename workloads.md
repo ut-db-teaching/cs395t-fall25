@@ -16,12 +16,11 @@ Each write-up should include:
 
 ## Paper Presentation
 
-Each paper discussion class will have one student present **Paper 1** listed in the schedule [spreadsheet](https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing).
+Each paper discussion class will have one student present **Paper 1** and lead the discussion of **Paper 2** (no formal presentation needed for Paper 2) in the schedule [spreadsheet](https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing)
 
 Presentation guidelines:
 - Approximately 15 minutes
-- Cover the paper’s motivation, problem setting, techniques, and experiments
-- Lead the discussion of **Paper 2** (no formal presentation needed)
+- Cover the paper’s motivation, problem setting, techniques, and experiments 
 
 Depending on enrollment, each student will present in **1 to 3 classes**.
 
@@ -32,17 +31,17 @@ Active participation is expected in every class.
 Students should:
 - Ask questions during presentations
 - Discuss the pros and cons of each paper
-- Brainstorm potential research ideas related to the papers
-
+- Brainstorm potential ideas that can improve upon the papers
+ 
 ## Project Presentation and Final Report
 
-Students will form small groups (maximum of 3 members) to conduct a research project on the topics of this seminar.
+Students will form small groups (**maximum of 3 members**) to conduct a research project on the topics of this seminar.
 
 Project deliverables include:
-- **Two in-class project progress reports**:
-  - **Report 1:** Problem definition and initial motivating experiments
-  - **Report 2:** Design of proposed solutions and preliminary results
-- **Final in-class presentation:** End-to-end project results
+- **Two in-class project progress presentations**:
+  - **Progress presentation 1:** Problem definition and initial motivating experiments
+  - **Progress presentation 2:** Design of proposed solutions and preliminary results
+- **Final project presentation:** End-to-end project results
 - **Final written project report**
 
 Students are welcome to propose their own research projects. The instructor will provide a list of candidate projects.
