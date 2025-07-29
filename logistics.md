@@ -37,8 +37,6 @@ permalink: /logistics/
 
 ## Letter Grade Cutoffs
 
-- Final grades will use **+/− grading**.
-
 | Grade | Cutoff |
 |-------|--------|
 | A     | ≥ 94%  |

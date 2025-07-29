@@ -3,9 +3,7 @@ layout: page
 title: Workloads 
 permalink: /workloads/
 ---
-## Mini Write-Ups for Each Class
-
-**Due:** 11:59 PM CST, the day before each class
+## Mini Write-Ups
 
 In each paper discussion class, we will cover **two papers**. All students are required to **submit a mini write-up for the two papers** before class. 
 
@@ -14,9 +12,11 @@ Each write-up should include:
 - Two strengths of each paper
 - Two weaknesses of each paper
 
+**Due:** 11:59 PM CST, the day before each class
+
 ## Paper Presentation
 
-Each class will have one student present **Paper 1** listed in the schedule spreadsheet.
+Each class will have one student present **Paper 1** listed in the [schedule spreadsheet]((https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing).
 
 Presentation guidelines:
 - Approximately 15 minutes
@@ -45,4 +45,4 @@ Project deliverables include:
 - **Final in-class presentation:** End-to-end project results
 - **Final written project report**
 
-Students are welcome to propose their own research topics. A list of possible projects will also be provided.
+Students are welcome to propose their own research projects. The instructor will provide a list of candidate projects.

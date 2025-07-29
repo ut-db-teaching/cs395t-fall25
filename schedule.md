@@ -12,7 +12,5 @@ permalink: /schedule/
 
 ## Detailed Schedule
 
-The detailed class schedule, including paper assignments and presentation slots, is available in the following spreadsheet:
-
-👉 [Course Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing)
+The detailed class schedule is in this [spreadsheet](https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing).
 
