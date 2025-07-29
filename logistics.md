@@ -35,6 +35,7 @@ permalink: /logistics/
 | Final Report              | 15%        | **12/14/2025**                                |
 
 
+
 ## Grade Cutoffs
 
 | Grade | Cutoff |
