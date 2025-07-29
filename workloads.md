@@ -16,7 +16,7 @@ Each write-up should include:
 
 ## Paper Presentation
 
-Each class will have one student present **Paper 1** listed in the [schedule spreadsheet]((https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing).
+Each class will have one student present **Paper 1** listed in the schedule [spreadsheet](https://docs.google.com/spreadsheets/d/1GklDVTCe9WZI8UkwKx166tXlksK2JlaoV9ptMMmxRyo/edit?usp=sharing).
 
 Presentation guidelines:
 - Approximately 15 minutes
