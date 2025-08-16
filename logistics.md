@@ -7,7 +7,7 @@ permalink: /logistics/
 ## Basic Information
 
 - **Instructor:** Dixin Tang (dixin@utexas.edu)  
-- **Course Time/Location:** Tuesday & Thursday, 2:00 p.m.–3:30 p.m. at BUR 216  
+- **Course Time/Location:** Tuesday & Thursday, 2:00 p.m.–3:30 p.m. at CBA 4.344 
 - **Office Hours:** By appointment  
 
 ## Course Policies
